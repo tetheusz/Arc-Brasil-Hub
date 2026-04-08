@@ -41,7 +41,15 @@ O projeto é desenvolvido pela **Circle** — a empresa por trás do USDC — e 
 
 Formas de se manter atualizado sobre o desenvolvimento do ARC:
 
-1. **Twitter/X** — siga a conta oficial para anúncios e atualizações em tempo real
+1. **Twitter/X** — siga a conta oficial e criadores para anúncios e atualizações em tempo real
+    - @thetecoz
+    - @Smartcript
+    - @BanlavN
+    - @tonyfer291
+    - @arclens_app
+    - @Oriebir_br
+    - @nagaisama
+    
 2. **Discord** — participe da comunidade para discussões técnicas e novidades
 3. **Newsletter** — cadastre-se no site oficial para receber atualizações por e-mail
 4. **GitHub** — acompanhe o repositório para mudanças no código e releases
